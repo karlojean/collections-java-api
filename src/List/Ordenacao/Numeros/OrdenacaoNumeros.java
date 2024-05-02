@@ -1,6 +1,4 @@
-package list.Ordenacao.Numeros;
-
-import list.Ordenacao.ListaPessoas.OrdenacaoPessoa;
+package List.Ordenacao.Numeros;
 
 import java.util.ArrayList;
 import java.util.Collections;

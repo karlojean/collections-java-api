@@ -1,6 +1,5 @@
-package list.Ordenacao.ListaPessoas;
+package List.Ordenacao.ListaPessoas;
 
-import javax.swing.border.Border;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
